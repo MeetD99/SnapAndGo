@@ -5,7 +5,7 @@ requests
 pytz
 Gunicorn
 scipy
-dlib
+dlib-19.24.99-cp312-cp312-win_amd64.whl
 numpy
 opencv-python
 
